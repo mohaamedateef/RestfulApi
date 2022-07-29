@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "nMNOvg0t0wDAImBA+f/vVsmbH4gGYNDS+aavp6LVdmY=",
+  "Source": "RestfulAPI",
+  "BasePath": "_content/RestfulAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RestfulAPI\\wwwroot",
+      "Source": "RestfulAPI",
+      "ContentRoot": "D:\\.Net Full Stack ITI\\Web API\\RestfulAPI\\wwwroot\\",
+      "BasePath": "_content/RestfulAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\.Net Full Stack ITI\\Web API\\RestfulAPI\\wwwroot\\ConsumerPage.html",
+      "SourceId": "RestfulAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\.Net Full Stack ITI\\Web API\\RestfulAPI\\wwwroot\\",
+      "BasePath": "_content/RestfulAPI",
+      "RelativePath": "ConsumerPage.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ConsumerPage.html"
+    }
+  ]
+}
